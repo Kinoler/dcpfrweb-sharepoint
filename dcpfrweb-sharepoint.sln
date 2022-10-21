@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcpfrweb-sharepoint", "dcpfrweb-sharepoint\dcpfrweb-sharepoint.csproj", "{5D8996B3-21AE-4B8A-A4B8-FC1D27B9A6E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8996B3-21AE-4B8A-A4B8-FC1D27B9A6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8996B3-21AE-4B8A-A4B8-FC1D27B9A6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8996B3-21AE-4B8A-A4B8-FC1D27B9A6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8996B3-21AE-4B8A-A4B8-FC1D27B9A6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEAF306-978B-48D2-9D74-C357060FCCEB}
+	EndGlobalSection
+EndGlobal
